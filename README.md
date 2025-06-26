@@ -4,3 +4,7 @@
 
 
 ●	Analyzed key metrics such as gross sales, volume, COGS, distribution, and warehousing costs to support strategic decision-making and improve supply chain and customer targeting.
+
+
+
+●	Please check the last two files to view the contents of the Excel file.
